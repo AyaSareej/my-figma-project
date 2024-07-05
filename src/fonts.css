@@ -1,0 +1,30 @@
+
+@font-face {
+    font-family: 'Noor Regular';
+    src: url('./assets/fonts/ArbFONTS-AGCRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+  
+@font-face {
+    font-family: 'Noor Light';
+    src: url('./assets/fonts/ArbFONTS-AGCLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+  
+@font-face {
+    font-family: 'Noor Bold';
+    src: url('./assets/fonts/ArbFONTS-AGCBold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+  
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./assets/fonts/Roboto-Regular.ttf') format('truetype');
+
+}
+  

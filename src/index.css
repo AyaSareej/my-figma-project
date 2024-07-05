@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+/*
+There are several free designed components that you can use with Tailwind CSS. Here are a few options:
+
+1. **Tailwind UI Components**: Tailwind UI is a library of pre-designed, fully responsive UI components built using Tailwind CSS. While the full Tailwind UI library is a paid product, they offer a selection of free components that you can use for your projects.
+
+2. **DaisyUI**: DaisyUI is a free and open-source Tailwind CSS component library that provides a wide range of pre-designed components, including buttons, cards, modals, and more. You can find the documentation and examples on their website.
+
+3. **Flowbite**: Flowbite is another free and open-source Tailwind CSS component library. It offers a variety of components, including navigation bars, dropdowns, and modals, among others.
+
+4. **Mamba UI**: Mamba UI is a free Tailwind CSS component library that provides a set of well-designed and responsive components, including buttons, cards, and forms.
+
+5. **Kutty**: Kutty is a free and open-source set of accessible React components built on top of Tailwind CSS. It includes a wide range of components, such as buttons, dropdowns, and modals.
+
+6. **Headless UI**: Headless UI is a set of unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. While the components themselves are free, you'll need to style them using Tailwind CSS.
+
+These are just a few examples of free designed components that you can use with Tailwind CSS. There are many other options available, both free and paid, depending on your specific needs and requirements.
+*/
